@@ -1,0 +1,224 @@
+.recommendation-content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    position: relative;
+    width: 100%;
+    min-height: 350px;
+    overflow: hidden;
+}
+
+.recommendation {
+    width: 100%;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.recommendation.active {
+    display: flex;
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+}
+
+.recommendation-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.recommendation-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 0.5em;
+    margin-right: 15px;
+}
+
+.recommendation-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.recommendations-panel {
+    background-color: #121212;
+    border-radius: 5px;
+    padding: 10px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.recommendation h2 {
+    font-size: 20px;
+    margin: 0;
+    color: #edb049;
+}
+
+.recommendation h3 {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    color: grey;
+}
+
+.recommendation-date {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin: 5px 0;
+    color: #444444;
+}
+
+.recommendation-quote {
+    font-size: 16px;
+    margin: 10px 0;
+    color: grey;
+    line-height: 1.5;
+}
+
+.recommendation-dots {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: #f5ba13;
+}
+
+@media (max-width: 600px) {
+    .recommendation-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        min-height: 450px; /* Adjust the minimum height for mobile */
+        position: relative; /* Add relative positioning */
+        padding-bottom: 60px; /* Ensure enough space for dots */
+    }
+
+    .recommendation {
+        transition: transform 0.5s ease, opacity 0.5s ease;
+        flex-grow: 1;
+        margin-bottom: 60px; /* Add margin to create space for dots */
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    .recommendation-enter-left {
+        animation: slideInFromLeft 0.5s forwards;
+    }
+
+    .recommendation-exit-left {
+        animation: slideOutToLeft 0.5s forwards;
+    }
+
+    .recommendation-enter-right {
+        animation: slideInFromRight 0.5s forwards;
+    }
+
+    .recommendation-exit-right {
+        animation: slideOutToRight 0.5s forwards;
+    }
+
+    @keyframes slideInFromLeft {
+        from {
+            opacity: 0;
+            transform: translateX(-100%);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes slideOutToLeft {
+        from {
+            opacity: 1;
+            transform: translateX(0);
+        }
+        to {
+            opacity: 0;
+            transform: translateX(-100%);
+        }
+    }
+
+    @keyframes slideInFromRight {
+        from {
+            opacity: 0;
+            transform: translateX(100%);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes slideOutToRight {
+        from {
+            opacity: 1;
+            transform: translateX(0);
+        }
+        to {
+            opacity: 0;
+            transform: translateX(100%);
+        }
+    }
+
+    .recommendation-avatar {
+        width: 80px; /* Smaller avatar size for mobile */
+        height: 80px; /* Smaller avatar size for mobile */
+        margin-right: 10px; /* Adjust margin for better spacing on mobile */
+        margin-left: 10px;
+    }
+
+    .recommendation h2 {
+        font-size: 18px; /* Adjust font size for mobile */
+        display: flex;
+        align-items: center;
+    }
+
+    .recommendation h3 {
+        font-size: 16px; /* Adjust font size for mobile */
+    }
+
+    .recommendation-date {
+        font-size: 12px; /* Adjust font size for mobile */
+        margin-bottom: -10px;
+    }
+
+    .recommendation-quote {
+        font-size: 14px; /* Adjust font size for mobile */        
+    }
+
+    .recommendations-panel {
+        padding: 8px; /* Adjust padding for mobile */
+    }
+
+    .dot {
+        height: 10px; /* Adjust dot size for mobile */
+        width: 10px; /* Adjust dot size for mobile */
+    }
+}

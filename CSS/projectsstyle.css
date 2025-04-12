@@ -1,0 +1,244 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #121212;
+  color: #d7d7d7;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+/* Main Container Styling */
+.container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: white;
+  -webkit-user-select: none; /* Standard property */
+  user-select: none; /* Safari and iOS support */
+}
+
+h2 {
+  font-size: 16px;
+  color: grey;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  -webkit-user-select: none; /* Standard property */
+  user-select: none; /* Safari and iOS support */
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 100;
+  -webkit-user-select: none; /* Standard property */
+  user-select: none; /* Safari and iOS support */
+  padding-left: 10px;
+}
+
+.media-container {
+  position: relative;
+  flex: 0 0 80%; /* Take up 80% of the width */
+  background-color: #151515;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+  overflow-y: auto; /* Enable vertical scrolling */
+  height: 100vh; /* Full viewport height */
+}
+
+
+/* Minimal Scrollbar Styling */
+.media-container::-webkit-scrollbar {
+  width: 6px; /* Width of the scrollbar */
+  
+}
+
+.media-container::-webkit-scrollbar-track {
+  background: none; /* Background of the scrollbar track */
+}
+
+.media-container::-webkit-scrollbar-thumb {
+  background-color: #222222; /* Color of the scrollbar thumb */
+  border-radius: 2px; /* Roundness of the scrollbar thumb */
+}
+
+.media-container::-webkit-scrollbar-thumb:hover {
+  background-color: #333333; /* Hover color of the scrollbar thumb */
+}
+
+.info-container::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for WebKit browsers */
+}
+
+/* Info Container Styling */
+.info-container {
+  flex: 0 0 20%; /* Take up 20% of the width */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 10px;
+  overflow: hidden;
+  overflow: auto;
+}
+
+/* Top Container Styling */
+.top-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Project Description Container Styling */
+.project-description-container {
+  padding: 10px;
+}
+
+.project-description-container h1 {
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 5px;
+  color: white;
+  -webkit-user-select: none; /* Standard property */
+  user-select: none; /* Safari and iOS support */
+  color: #d7d7d7;
+  font-weight: 400;
+}
+
+.project-description-container h2 {
+  font-size: 10px;
+  color: white;
+}
+
+.project-description-container p {
+  font-size: 14px;
+  margin: 0;
+  color: grey;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  -webkit-user-select: none; /* Standard property */
+  user-select: none; /* Safari and iOS support */
+}
+
+.media-description {
+  margin-bottom: 10px;
+  color: grey;
+  font-size: 14px;
+  text-align: center;
+}
+
+/* Style for the media item container */
+.media-item {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+/* Media Content Styling */
+#project-media {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#project-media img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: auto;
+}
+
+#project-media video {
+  width: 100%;
+  height: auto;
+}
+
+hr {
+  opacity: .05;
+}
+
+.link-button {
+  display: inline-block;
+    color: rgb(20, 20, 20);
+    background-color: #4d779f;
+    padding: 0 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+    transition: color 0.3s;
+    opacity: 0.5;
+}
+
+.link-button:hover {
+  opacity: 1;
+  color: #f5ba13;
+  background-color: #272727;
+}
+
+
+/* Responsive Iframe */
+.responsive-iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.responsive-iframe-container iframe, #project-media video, #project-media img {
+  padding: 5px;
+}  
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+    overflow-y: auto; /* Enable vertical scrolling for the container */
+  }
+
+  .media-container,
+  .info-container {
+    width: 100%;
+    height: auto; /* Let the height be determined by the content */
+    overflow: visible; /* Remove individual scrolling */
+  }
+
+  .media-container {
+    flex: 1;
+  }
+
+  .info-container {
+    flex: 1;
+  }
+}
