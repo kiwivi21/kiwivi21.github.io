@@ -4,6 +4,6 @@ This is a test to see if projects work
 ---
 marmoset toolbag, unity, UE5, Blender, 3ds Max
 ---
-https://www.dropbox.com/scl/fi/wt8u8rsdhkvu1811u6pby/portaitcropped.png?rlkey=vdcboqamyxm0cgwnwmqwd7sjp&st=fl9d97zx&dl=0
+https://www.dropbox.com/scl/fi/wt8u8rsdhkvu1811u6pby/portaitcropped.png
 ---
 test.html
