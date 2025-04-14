@@ -1,10 +1,9 @@
-C:\Users\OEM\Documents\kiwivi21.github.io\Resources\Profile Picture\PortraitSmallSize.jpg
+Resources/Profile Picture/ProfileSquare.png
 Toby Tinker
-Your Role @ Company
-Your Location
-https://x.com/ArtOfPilgrim
-http://youtube.com/c/ArtofPilgrim
-https://www.linkedin.com/in/thomasrwbutters/
-https://www.artstation.com/art_of_pilgrim
-https://discord.com/invite/WCnQ5bQa6Q
-youremail@email.com
+Game Art Student
+Christchurch, New Zealand
+https://x.com/TobyTinker3D
+https://youtube.com/@kiwivi21
+https://www.linkedin.com/in/toby-tinker/
+https://www.artstation.com/tobyt
+tobytinker3D@gmail.com
