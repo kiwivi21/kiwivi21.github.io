@@ -15,3 +15,4 @@ You can create before and after slider by seperating two urls with ' // '
 
 https://sketchfabexample.com 
 you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+Resources\Renders\RendersJug\JugRender03.png

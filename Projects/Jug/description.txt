@@ -1,0 +1,9 @@
+Jug
+---
+Jug Project Made For Game
+---
+Blender, Rizom UV, Marmoset Toolbag
+---
+Resources\Renders\RendersJug\JugRender03.png
+---
+Jug.html

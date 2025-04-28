@@ -1,4 +1,4 @@
-Resources/Profile Picture/ProfileSquare.png
+\Resources\ProfilePicture\ProfileSquare.png
 Toby Tinker
 Game Art Student
 Christchurch, New Zealand
