@@ -1,13 +1,13 @@
-Triangles: 1
+Triangles: 786
 
-Materials: 2
+Materials: 1
 
-Texture Size: 3
+Texture Size: 4096
 
-Texel Density: 4
+Texel Density: 15.08 tx/cm
 
-Workflow: 5
+Workflow: Metal/Rough
 
-Target Engine: 6
+Target Engine: Unreal Engine
 
-Collaborators:7
+Collaborators:1
