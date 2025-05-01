@@ -1,10 +1,19 @@
-Blender
-3ds Max
-Unity
-Zbrush
-Adobe Photoshop
-Topogun
-Substance 3d Painter
-Marvelous Designer
 Maya
+Blender
+Zbrush
+Unity
+Unreal Engine
+Substance 3D Painter
+Substance 3D Designer
+Substance 3D Sampler
 Marmoset Toolbag
+EmberGen
+LiquiGen
+GeoGen
+Gaea
+Topogun
+MagicaVoxel
+Treeit
+Affinity Photo
+Adobe Photoshop
+Adobe After Effects
