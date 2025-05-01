@@ -4,6 +4,6 @@ Jug Project Made For Game
 ---
 Blender, Rizom UV, Marmoset Toolbag
 ---
-\Resources\Renders\RendersJug\JugRender03.png
+Projects\Jug\Thumbnail.jpg
 ---
 Jug.html
