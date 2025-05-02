@@ -2,7 +2,7 @@ Triangles: 786
 
 Materials: 1
 
-Texture Size: 4096
+Texture Size: 4096X4096
 
 Texel Density: 15.08 tx/cm
 
