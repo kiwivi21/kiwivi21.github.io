@@ -1,0 +1,13 @@
+Triangles: 2244
+
+Materials: 1
+
+Texture Size: 4096
+
+Texel Density: 872
+
+Workflow: PBR Metal/Rough
+
+Target Engine: Unreal
+
+Collaborators: 0
