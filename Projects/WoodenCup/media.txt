@@ -1,0 +1,14 @@
+WC_Render01.jpg
+Render 01
+
+WC_Render02.jpg
+Render 02
+
+WC_Render03.jpg
+Render 03
+
+WC_Render041024.jpg
+1024x1024 Textures as they would be seen in game
+
+WC_AO.jpg
+AO and Wireframe

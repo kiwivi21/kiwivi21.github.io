@@ -1,0 +1,13 @@
+Triangles: 960
+
+Materials: 1
+
+Texture Size: 4096X4096
+
+Texel Density: 24.66 tx/cm
+
+Workflow: Metal/Smoothness
+
+Target Engine: Unity
+
+Collaborators: 0

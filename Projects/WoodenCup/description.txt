@@ -1,0 +1,9 @@
+Wooden Cup
+---
+Wooden cup made for a horror game I am working for, 4k textures used for rendering but 1024 for in game
+---
+Maya, Rizom UV, Substance Painter
+---
+Projects\WoodenCup\WC_Thumbnail.jpg
+---
+WoodenCup.html

@@ -6,3 +6,6 @@ Render 02
 
 JugRender03.jpg
 Render 03
+
+JugAO.jpg
+Wireframe and AO
