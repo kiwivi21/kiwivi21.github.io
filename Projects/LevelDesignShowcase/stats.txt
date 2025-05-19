@@ -1,0 +1,13 @@
+Triangles: N/A
+
+Materials: N/A
+
+Texture Size: N/A
+
+Texel Density: N/A
+
+Workflow: Metal/Rough
+
+Target Engine: Unreal Engine
+
+Collaborators: 0

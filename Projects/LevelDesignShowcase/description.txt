@@ -1,0 +1,9 @@
+Level Design Showcase
+---
+This is a project where I was tasked with working on level design, with that being considered, this is a relatively short level where you need to progress and reach the final room. With the use of visual aids and story telling I have built a small but immersive level that could be used in a game format. Most of the assets used were from https://www.fab.com/listings/9211e1d8-16e7-4429-a1b3-e4ceb02018ab. You can find a link to download and test at - https://kiwivi.itch.io/underground-temples
+---
+Maya, Substance Painter, RizomUV, Unreal Engine
+---
+Projects\LevelDesignShowcase\VD_Thumbnail.jpg
+---
+LevelDesignShowcase.html
