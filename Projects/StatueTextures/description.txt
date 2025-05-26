@@ -1,0 +1,9 @@
+Statue Textures
+---
+Short project I did in my free time. I wanted to practice baking, texturing and rendering in Marmoset Toolbag and found a really cool free statue base for free. With the base I played around with adding some quick textures and getting a nice render out. Pretty happy with the results. Free sample downloaded from - https://www.artstation.com/marketplace/p/oB9GP/110-famous-roman-statues-chic-collection?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace 
+---
+Marmoset Toolbag
+---
+Projects\StatueTextures\STRender02.jpg
+---
+StatueTextures.html

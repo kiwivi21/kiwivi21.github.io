@@ -1,0 +1,13 @@
+Triangles: 60,000
+
+Materials: 1
+
+Texture Size: 4096x4096
+
+Texel Density: N/A
+
+Workflow: Metal/Rough
+
+Target Engine: Unreal Engine
+
+Collaborators: 0
