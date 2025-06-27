@@ -1,0 +1,41 @@
+ShieldRenderOverall.jpg
+Render Overall
+
+ShieldRender4.jpg
+Render 01
+
+ShieldRender6.jpg
+Render 02
+
+ShieldRender7.jpg
+Render 03
+
+ShieldRender8.jpg
+Render 04
+
+ShieldRender9.jpg
+Render 05
+
+ShieldRender3.jpg
+Render 06
+
+ShieldRender5.jpg
+Render 07
+
+Shield1.jpg
+Flat Render 01
+
+Shield2.jpg
+Flat Render 02
+
+Shield3.jpg
+Flat Render 03
+
+Shield4.jpg
+Flat Render 04
+
+ShieldWireframe.jpg
+Ambient Occlusion and Wireframe
+
+ShieldRefs.png
+Reference Images

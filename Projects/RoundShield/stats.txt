@@ -1,0 +1,13 @@
+Triangles: 3930 
+
+Materials: 1
+
+Texture Size: 4096X4096
+
+Texel Density: 209.5 tx/cm
+
+Workflow: PBR Metal/Rough
+
+Target Engine: Unreal
+
+Collaborators: 0

@@ -1,0 +1,9 @@
+Round Shield
+---
+During a break from my game I wanted to work on some detailed realistic assets. I decided to work on a medieval shield as I generally work on swords and related weapons. I utilized new techniques I learnt while working on my game. I also have't worked on a stylized asset for a good while, so I wanted to see where I was at with my abilities. Overall a bit of a shift compared to the rest but still looks good. 
+---
+Maya, Zbrush, RizomUV, Marmoset Toolbag
+---
+Projects\RoundShield\ShieldThumbnail.jpg
+---
+RoundShield.html

@@ -1,8 +1,8 @@
 Dawnwalker Brooch
 ---
-Project Description
+With Dawnwalker getting a reveal at the start of 2025 I got inspired by the game. This project is based on the logo for the game and aims to utilize all of my skills in different programs.
 ---
-Software Tags - Maya, Zbrush, RizomUV, Marmoset Toolbag
+Maya, Zbrush, RizomUV, Marmoset Toolbag
 ---
 Projects\DawnwalkerBrooch\DWThumbnail.jpg
 ---
