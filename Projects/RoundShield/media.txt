@@ -37,5 +37,8 @@ Flat Render 04
 ShieldWireframe.jpg
 Ambient Occlusion and Wireframe
 
+ShieldZbrush.jpg
+Highpoly in Zbrush
+
 ShieldRefs.png
 Reference Images
