@@ -1,0 +1,9 @@
+Maeve's Blades Fanart Paladins
+---
+My friends birthday was coming up and I felt like it was time to do some more exploration into a stylized workflow. I decided to make the weapon of their favourite character in the game Paladins. This project had tricky points as I hadn't done much stylized texturing in the past and this was the first time I seriously tried handpainted texturing. I feel like there are areas that I could improve upon, however I feel this was a good go and I'm pretty happy with the end result.
+---
+Maya, Rizom UV, Substance Painter, Marmoset Toolbag
+---
+Projects\MaeveBlades\Thumbnail.jpg
+---
+MaeveBlades.html
