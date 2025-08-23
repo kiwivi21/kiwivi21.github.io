@@ -12,7 +12,7 @@ Bachelor of Creative Technologies - Game Art - Level 7
 Media Design School
 Date (2023 - 2025)
 Resources\CompanyLogos\Mediadesignschool_Logo.jpg
-sampletext
+In this course I am learning how to create game art and video games. I am working with teams to develop games as well as creating individual 3D assets. This course is to help build me up to be ready for the game development industry. During my studies I learnt Unity, Unreal Engine 5, furthered knowledge of Adobe Suite and Maya, 3DS Max, Version control, Zbrush and Treeit.
 ---
 Equipment Servicing
 Hirepool - Part Time
@@ -24,11 +24,11 @@ Diploma in 3D Production - Level 6
 Yoobee College of Creative Innovation
 Date (2022)
 Resources\CompanyLogos\yoobee_logo.jpg
-sampletext
+This course was a continuation of the previous Animation course. This took what we learnt last year and applied it to a higher standard while learning new techniques. While I was here, I furthered my 3D ability, learnt VFX and enhanced my animation knowledge by creating animation shorts. During this course I furthered my knowledge with the Adobe Suite, Maya, as well as learning Houdini, Unreal Engine 5 for animation among some other tools. 
 ---
 Diploma in Animation - Level 5
 Yoobee College of Creative Innovation
 Date (2021)
 Resources\CompanyLogos\yoobee_logo.jpg
-sampletext
+At Yoobee I learnt how to animate and model. This course developed my ability to work in a creative workspace and teach me the workflows required to create assets. I learnt software such as Adobe suite and Maya during this course.
 ---
