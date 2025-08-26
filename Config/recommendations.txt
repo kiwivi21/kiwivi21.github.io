@@ -1,6 +1,12 @@
-Name
-https://profilepic.png
-Role @ Company
-Month/Day/Year
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Aimee Foot
+https://i.postimg.cc/yNygZFZ9/GM-uq8ya-EAAF1p-V.png
+Animator @ QByte Studios
+25/01/2025
+Toby is incredibly reliable as a teammate, helpful with constructive feedback, attentively listening upon feedback, and most importantly is ALWAYS communicative throughout the process of the projects we have worked together with. Toby's exploration in VFX is always a treat to see, even better seeing the in-depth detailing of how the VFX are made, with his well crafted tutorials to follow along to. Toby's 3D art is I'd say his biggest strength, from constructing complex objects to the simplest, they are always cleanly built with highest quality checks and optimized to a T, and with the best textures he makes himself. Toby always makes sure to spend quality time on his work, and knows when to be efficient with his time.
+---
+Aimee Foot
+https://i.postimg.cc/yNygZFZ9/GM-uq8ya-EAAF1p-V.png
+Animator @ QByte Studios
+25/01/2025
+Toby is incredibly reliable as a teammate, helpful with constructive feedback, attentively listening upon feedback, and most importantly
 ---
