@@ -4,3 +4,4 @@ LevelDesignShowcase
 StatueTextures
 RoundShield
 MaeveBlades
+BlacksmithProps

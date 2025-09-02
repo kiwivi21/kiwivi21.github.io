@@ -1,0 +1,9 @@
+Medieval Blacksmith Props
+---
+This assessment I was tasked with making props for an Environment assessment I will be working on next. For this assessment I had to build around 10-15 different props and primarily using 4 textures. I decided to go with 2 tileable textures, one for the ground and one for the fabric that I could drape on objects. The other two primary textures I made were trimsheets which I could reuse for texturing. Outside of these however, I made an normal texture for the main whetstone section(not the base), quenching oil itself, jugs and hammers with horseshoe. Overall, these props should set a good base for reusable props I can place around the scene
+---
+Autodesk Maya, Blender, Zbrush, RizomUV, Unreal Engine, Substance Painter, Substance Designer, Marmoset Toolbag 5
+---
+Projects\BlacksmithProps\BSThumbnail.jpg
+---
+BlacksmithProps.html
