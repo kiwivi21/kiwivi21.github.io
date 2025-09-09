@@ -1,0 +1,9 @@
+Triangles: 15941
+
+Materials: 8
+
+Workflow: Metal/Rough
+
+Target Engine: Unreal Engine
+
+Collaborators: 0
