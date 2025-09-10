@@ -1,8 +1,8 @@
-Medieval Blacksmith Props
+M1841 6-Pounder Field Gun
 ---
-This assessment I was tasked with making props for an Environment assessment I will be working on next. For this assessment I had to build around 10-15 different props and primarily using 4 textures. I decided to go with 2 tileable textures, one for the ground and one for the fabric that I could drape on objects. The other two primary textures I made were trimsheets which I could reuse for texturing. Outside of these however, I made an normal texture for the main whetstone section(not the base), quenching oil itself, jugs and hammers with horseshoe. Overall, these props should set a good base for reusable props I can place around the scene
+I had an assessment where I needed to create a portfolio piece and considering I focus on props I decided to work on a large asset as I haven't explored many large large objects in the past. I decided to work on a cannon as I found it had the scale and complexity to best show off what I have learnt throughout the modeling the workflow. The cannon I ended up deciding on was an M1841 6-Pounder Field Gun. This was used by the United States Army in wars such as the American Civil War. 
 ---
-Autodesk Maya, Blender, Zbrush, RizomUV, Unreal Engine, Substance Painter, Substance Designer, Marmoset Toolbag 5
+Autodesk Maya, RizomUV, Substance Painter, Marmoset Toolbag 5
 ---
 Projects\M1841FieldGun\Cannon_Thumbnail.jpg
 ---

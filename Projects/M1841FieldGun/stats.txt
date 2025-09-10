@@ -1,8 +1,10 @@
-Triangles: 15941
+Triangles: 18678
 
-Materials: 8
+Materials: 2
 
 Workflow: Metal/Rough
+
+Texel Density: 10 tx/cm
 
 Target Engine: Unreal Engine
 

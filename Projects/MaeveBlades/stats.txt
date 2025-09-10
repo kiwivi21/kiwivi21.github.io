@@ -4,8 +4,6 @@ Materials: 1
 
 Texture Size: 2048X2048
 
-Texel Density: 315 tx/cm
-
 Workflow: Metal/Rough
 
 Target Engine: Unreal Engine
