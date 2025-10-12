@@ -1,0 +1,11 @@
+Blackthorne's Manor Props
+---
+Here's a combination of props and environment pieces I have made for a game that I am currently working on.  ->
+https://store.steampowered.com/app/3971370/Blackthornes_Manor/
+ All assets are made by me
+---
+Maya, Zbrush, RizomUV, Topogun, Substance Painter, Marmoset Toolbag, Unity
+---
+Projects\BlackthornesManorProps\BM_Thumbnail.jpg
+---
+BlackthornesManorProps.html

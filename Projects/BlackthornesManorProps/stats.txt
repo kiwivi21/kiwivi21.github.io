@@ -1,0 +1,7 @@
+Materials: 20
+
+Workflow: PBR Metal/Gloss
+
+Target Engine: Unity
+
+Collaborators: 5

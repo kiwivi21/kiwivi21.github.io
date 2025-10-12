@@ -5,3 +5,4 @@ RoundShield
 MaeveBlades
 BlacksmithProps
 M1841FieldGun
+BlackthornesManorProps
