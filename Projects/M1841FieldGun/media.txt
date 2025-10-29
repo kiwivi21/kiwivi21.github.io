@@ -3,8 +3,8 @@
 Cannon_Unique1.jpg
 Unique Shot 1
 
-Cannon_Wireframe.jpg
-Wireframe
+Wireframe_LOD0.jpg
+Wireframe For LOD 0 - Base 16,356 Tris, Accessories 2,358 Tris, Cannon Ball 125 Tris
 
 Cannon_Unique2.jpg
 Unique Shot 2
@@ -18,10 +18,22 @@ Unique Shot 4
 Cannon_Unique5.jpg
 Unique Shot 5
 
+Cannon_Unique6.jpg
+Unique Shot 6
+
 Cannon_Side.jpg
 Side Shot
 
-CannonTurntable_Unique1.mp4
+Cannon_Top.jpg
+Top Shot
+
+Wireframe_LOD1.jpg
+Wireframe For LOD 1 - Base 4,939 Tris, Accessories 752 Tris, Cannon Ball 48 Tris
+
+Wireframe_LOD2.jpg
+Wireframe For LOD 2 - Base 2100 Tris, Accessories 752 Tris, Cannon Ball 48 Tris
+
+Cannon_Turntable.mp4
 Scene
 
 CannonTextures.jpg
@@ -33,5 +45,8 @@ Additional Textures - 2k
 CannonRef.jpg
 Reference Images
 
-https://sketchfab.com/3d-models/m1841-6-pounder-cannon-us-army-9a435f77f83847a9a713c3d0b6c27f9d
+https://www.youtube.com/watch?v=bbSOEp2mKz0
+LOD Breakdown
+
+https://sketchfab.com/3d-models/m1841-6-pounder-cannon-us-army-1c34268776c944d3bee0434a0693f51b
 

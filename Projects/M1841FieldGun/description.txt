@@ -1,8 +1,8 @@
 M1841 6-Pounder Field Gun
 ---
-I had an assessment where I needed to create a portfolio piece and considering I focus on props I decided to work on a large asset as I haven't explored many large large objects in the past. I decided to work on a cannon as I found it had the scale and complexity to best show off what I have learnt throughout the modeling the workflow. The cannon I ended up deciding on was an M1841 6-Pounder Field Gun. This was used by the United States Army in wars such as the American Civil War. 
+I had an assessment where I needed to create a portfolio piece and considering I focus on props I decided to work on a large asset as I haven't explored many large large objects in the past. I decided to work on a cannon as I found it had the scale and complexity to best show off what I have learnt throughout the modeling the workflow. The cannon I ended up deciding on was an M1841 6-Pounder Field Gun. This was used by the United States Army in wars such as the American Civil War. I primarily used Maya for the modeling the asset with some minor adjustments being made in Blender. For the high poly details I sculpted in Zbrush to add bullet holes and additional damage. From there I UVed the cannon in Rizom UV, then baked in Marmoset Toolbag for extra control. Next I textured in Substance Painter and lastly rendered out in Marmoset Toolbag once again. Final check ups were done in Unreal Engine 5 to visualize the LODs as well as how it would look in engine. Big thank you to my lecturer Andrew Amundrud for helping me realize this project.
 ---
-Autodesk Maya, RizomUV, Substance Painter, Marmoset Toolbag 5
+Autodesk Maya, Blender, Zbrush, RizomUV, Substance Painter, Marmoset Toolbag 5, Affinity Photo, Unreal Engine 5
 ---
 Projects\M1841FieldGun\Cannon_Thumbnail.jpg
 ---
