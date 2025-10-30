@@ -42,6 +42,9 @@ Main Cannon Textures - 4k
 CannonAdditionalTextures.jpg
 Additional Textures - 2k
 
+CannonZbrushCollage.jpg
+Zbrush Collage Of Some Of The Sculpted Damage
+
 CannonRef.jpg
 Reference Images
 
