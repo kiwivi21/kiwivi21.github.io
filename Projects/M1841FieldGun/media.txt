@@ -39,7 +39,7 @@ Scene
 CannonTextures.jpg
 Main Cannon Textures - 4k
 
-Cannon_ExtraTextures.jpg
+CannonAdditionalTextures.jpg
 Additional Textures - 2k
 
 CannonRef.jpg
