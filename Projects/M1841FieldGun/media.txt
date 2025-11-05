@@ -1,10 +1,7 @@
 
 
-Cannon_Unique1.jpg
-Unique Shot 1
+Cannon_Unique1.jpg // Wireframe_LOD0.jpg
 
-Wireframe_LOD0.jpg
-Wireframe For LOD 0 - Base 16,356 Tris, Accessories 2,358 Tris, Cannon Ball 125 Tris
 
 Cannon_Unique2.jpg
 Unique Shot 2
