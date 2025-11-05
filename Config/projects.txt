@@ -1,8 +1,5 @@
-Jug
 DawnwalkerBrooch
-StatueTextures
 RoundShield
-MaeveBlades
 BlacksmithProps
 M1841FieldGun
 BlackthornesManorProps
