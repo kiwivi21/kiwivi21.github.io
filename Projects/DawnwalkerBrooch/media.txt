@@ -10,6 +10,9 @@ Render 03
 DWRender04.jpg
 Render 04
 
+DWBroochCompetition.jpg
+An example of usage in the Dawnwalker December competition
+
 DWWireAO.jpg
 Ambient Occlusion and Wireframe
 

@@ -1,6 +1,6 @@
 Jug
 ---
-Jug Project Made For Game
+Here is a medieval jug I made for 
 ---
 Blender, Rizom UV, Marmoset Toolbag
 ---

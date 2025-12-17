@@ -24,9 +24,6 @@ Table, Chest and Rope
 BSRender6.jpg
 Jugs
 
-BSRender8.jpg
-Stone Blocks
-
 BSRender9.jpg
 Ground Material
 
