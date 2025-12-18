@@ -14,6 +14,12 @@ Date (2023 - 2025)
 Resources\CompanyLogos\Mediadesignschool_Logo.jpg
 In this course I am learning how to create game art and video games. I am working with teams to develop games as well as creating individual 3D assets. This course is to help build me up to be ready for the game development industry. During my studies I learnt Unity, Unreal Engine 5, furthered knowledge of Adobe Suite and Maya, 3DS Max, Version control, Zbrush and Treeit.
 ---
+Closed Beta Testing - Credited
+Gangs of Sherwood - Volunteer
+Date (2023)
+Resources\CompanyLogos\GOS.jpg
+I worked on beta testing on beta testing for Gangs of Sherwood by Appeal Studios. During this I tested multiple different levels, characters and playstyles. Taking both obvious and abstract ways of approaching the game to make sure that everything was clean and tested where possible. From there I reported issues and provided feedback on the game to help shape the end experience.
+---
 Equipment Servicing
 Hirepool - Part Time
 Date (2021 - 2023)
