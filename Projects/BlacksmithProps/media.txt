@@ -27,3 +27,8 @@ Jugs
 BSRender9.jpg
 Ground Material
 
+BSTTexture1.png
+Trimsheet 01
+
+BSTTexture2.png
+Trimsheet 02

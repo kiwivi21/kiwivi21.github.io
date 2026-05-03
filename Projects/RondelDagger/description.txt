@@ -1,0 +1,9 @@
+Rondel Dagger
+---
+With Dawnwalker getting a reveal at the start of 2025 I got inspired by the game. This project is based on the logo for the game and aims to utilize all of my skills in different programs.
+---
+Maya, Zbrush, RizomUV, Marmoset Toolbag
+---
+Projects\RondelDagger\RDThumbnail.jpg
+---
+RondelDagger.html

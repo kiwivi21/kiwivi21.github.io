@@ -4,3 +4,6 @@ BlacksmithProps
 M1841FieldGun
 BlackthornesManorProps
 LevelDesignShowcase
+Jug
+MaeveBlades
+RondelDagger
