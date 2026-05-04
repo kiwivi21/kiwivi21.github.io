@@ -1,8 +1,8 @@
 Rondel Dagger
 ---
-With Dawnwalker getting a reveal at the start of 2025 I got inspired by the game. This project is based on the logo for the game and aims to utilize all of my skills in different programs.
+The focus on this project was to further improve my texturing primarily with beaten metals. I found that working on metal textures can be hard to look natural and add details, part of this is due to managing both metallic and roughness values which can occasionally cause conflicts. Overall I was pretty happy with the dagger and decided to make a scene around it. All assets were made by me and revolve around the key item to tell a story.  
 ---
-Maya, Zbrush, RizomUV, Marmoset Toolbag
+Blender, Zbrush, Substance Painter,RizomUV, Marmoset Toolbag
 ---
 Projects\RondelDagger\RDThumbnail.jpg
 ---

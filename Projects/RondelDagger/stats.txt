@@ -1,10 +1,10 @@
-Triangles: 2244
+Triangles: 1218
 
 Materials: 1
 
 Texture Size: 4096X4096
 
-Texel Density: 872
+Texel Density: 147 tx/cm
 
 Workflow: PBR Metal/Rough
 
